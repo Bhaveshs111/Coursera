@@ -1,0 +1,48 @@
+
+.navbar
+{
+border: none;
+background-color: rgb(216, 159, 36);
+color: #61122F;
+}
+
+body{
+	background-color: #61122F;
+	color: white;
+}
+.glyphicon{
+	font-size: 30px;
+	color:#61122F; 
+}
+
+.container
+{
+	background-color: grey;
+}
+.text-center{
+	font-size: 30px;
+
+}
+
+h2{
+	text-align: center;
+}
+
+
+
+.navbar-brand{
+font-size: 35px;
+color: rgb(3, 3, 10);
+}
+
+#text
+{
+	text-align: justify;
+}
+
+.mymenu{
+	height: 600px;
+	overflow: auto;
+}
+
+
